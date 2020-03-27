@@ -77,4 +77,7 @@ class ResetPasswordForm(FlaskForm):
                             validators=[DataRequired(), EqualTo('password')])
     submit = SubmitField('Reset Password')
 
-    
+    # def validate_email(self, email):
+    #     user = User.query.filter_by(email=email.data).first()
+    #     if user is None:
+    #         raise ValidationError('Testing testing... is this where my problem is?')
