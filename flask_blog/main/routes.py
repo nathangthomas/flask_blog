@@ -1,4 +1,4 @@
-from Flask import, render_template, request, Blueprint
+from Flask import render_template, request, Blueprint
 from flask_blog.models import Post
 
 main = Blueprint('main', __name__)
