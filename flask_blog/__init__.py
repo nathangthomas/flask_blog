@@ -32,5 +32,5 @@ app.register_blueprint(users)
 from flask_blog.posts.routes import posts
 app.register_blueprint(posts)
 
-from fask_blog.main.routes import main
+from flask_blog.main.routes import main
 app.register_blueprint(main)
