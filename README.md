@@ -1,6 +1,6 @@
 # Welcome to Flask Blog
 
-### This repo is still in progress. A more detailed README is coming soon.
+### This application is still in progress. A more detailed README is coming soon.
 
 When you get to writing this repo don't forget to include:
 - Description of application --> learning goals
