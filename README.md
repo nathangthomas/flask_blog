@@ -2,7 +2,7 @@
 
 ### This application is still in progress. A more detailed README is coming soon.
 
-When you get to writing this repo don't forget to include:
+When you get to writing this README don't forget to include:
 - Description of application --> learning goals
 - Schema diagram
 - How to run on local machine
