@@ -17,8 +17,8 @@ class TestModels(unittest.TestCase):
         # user_1 = User('User One', 'user_1@email.com', 'password')
         # result = self.user_1.get_reset_token(self, expires_seconds=1800)
         self.assertEqual(self.user_1.username, 'User One')
-
-print("testing testing")
+        self.assertEqual(self.user_1.email, 'user_1@email.com')
+        self.assertEqual(self.user_1.password, 'password')
 
 
 if __name__ == '__main__':
