@@ -1,18 +1,4 @@
 # Welcome to Flask Blog
-
-
-### This repo is still in progress. A more detailed README is coming soon.
-
-When you get to writing this repo don't forget to include:
-- Description of application --> learning goals
-- Schema diagram
-- How to run on local machine
-- How to run test suite
-- Link to live application
-
-
-
-# Welcome to Flask Blog
 This application was created as an exercise to further explore the Python framework Flask.
 
 ## Table of Contents
@@ -31,8 +17,7 @@ https://github.com/nathangthomas/flsk_blog
 ### Run flask_blog Locally
 - Type `python3 run.py` in your terminal to spin up your server.
 - Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser to interact with the app.
-- Run the test suite by first shutting down your current server or specifying a new port with `--port XYZ`.
-  You can then run `TEST_WATCH=1 meteor test --driver-package meteortesting:mocha` to run tests.
+- Run the test suite ...
 
 ## Live App
 (This functionality is not currently set up.)
