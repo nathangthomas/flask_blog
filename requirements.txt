@@ -1,9 +1,6 @@
 absl-py==0.9.0
 alabaster==0.7.12
 alembic==1.4.2
-anaconda-client==1.7.2
-anaconda-navigator==1.9.7
-anaconda-project==0.8.3
 appdirs==1.4.3
 appnope==0.1.0
 appscript==1.0.1
@@ -36,12 +33,7 @@ cffi==1.12.3
 chardet==3.0.4
 Click==7.0
 cloudpickle==1.2.2
-clyent==1.2.2
 colorama==0.4.1
-conda==4.8.3
-conda-build==3.18.9
-conda-package-handling==1.6.0
-conda-verify==3.4.2
 configparser==5.0.0
 constantly==15.1.0
 contextlib2==0.6.0
