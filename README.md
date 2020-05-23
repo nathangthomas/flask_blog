@@ -21,7 +21,7 @@ https://github.com/nathangthomas/flsk_blog
 
 ## Live App
 (This functionality is not currently set up.)
-You can also interact with a live version of Flask Blog hosted on Heroku [HERE](https://flask--blog.herokuapp.com).
+You can also interact with a live version of Flask Blog hosted on Heroku [HERE](https://canteen-chronicles.herokuapp.com).
 
 ## Tech Stack:
 ### This app was built with the following:
