@@ -139,7 +139,6 @@ numpy==1.17.2
 numpydoc==0.9.1
 olefile==0.46
 openpyxl==3.0.0
-opt-einsum==0+untagged.56.g2664021.dirty
 packaging==19.2
 pandas==0.25.1
 pandocfilters==1.4.2
