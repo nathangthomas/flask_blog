@@ -36,3 +36,4 @@ You can also interact with a live version of Flask Blog hosted on Heroku [HERE](
 - Ensure your requirements.txt is in the project root folder, else your heroku application will fail to deploy.
 - Create a Procfile in the project root folder and add the following line:
 `web: gunicorn run:flask_blog`
+- Save and commit all changes then ... `git push heroku master`
