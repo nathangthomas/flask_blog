@@ -29,3 +29,10 @@ You can also interact with a live version of Flask Blog hosted on Heroku [HERE](
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 - [SQLite(development DB)](https://www.sqlite.org/index.html)
 - [PostgresQL(production DB)](https://www.postgresql.org/)
+
+## Deploying a Flask App to Heroku:
+- `pip install gunicorn`
+- `pip freeze > requirements.txt`
+- Ensure your requirements.txt is in the project root folder, else your heroku application will fail to deploy.
+- Create a Procfile in the project root folder and add the following line:
+`web: gunicorn run:flask_blog`
